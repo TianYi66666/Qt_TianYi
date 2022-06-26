@@ -1,0 +1,47 @@
+<RCC>
+    <qresource prefix="/">
+        <file>阿拉伯半岛.png</file>
+        <file>阿拉斯加.png</file>
+        <file>北非.png</file>
+        <file>北欧.png</file>
+        <file>北亚.png</file>
+        <file>岛屿.png</file>
+        <file>东南亚.png</file>
+        <file>东亚.png</file>
+        <file>格陵兰岛.png</file>
+        <file>古巴.png</file>
+        <file>加拿大.png</file>
+        <file>截屏2022-06-19 15.49.35.png</file>
+        <file>截屏2022-06-19 15.51.30.png</file>
+        <file>截屏2022-06-19 15.52.01.png</file>
+        <file>截屏2022-06-19 15.52.30.png</file>
+        <file>截屏2022-06-19 15.53.13.png</file>
+        <file>截屏2022-06-19 15.53.39.png</file>
+        <file>截屏2022-06-19 15.54.27.png</file>
+        <file>截屏2022-06-19 15.57.21.png</file>
+        <file>截屏2022-06-19 15.57.30.png</file>
+        <file>截屏2022-06-19 16.05.59.png</file>
+        <file>截屏2022-06-19 16.08.16.png</file>
+        <file>截屏2022-06-22 17.10.10.png</file>
+        <file>快进.png</file>
+        <file>美国.png</file>
+        <file>莫桑比克.png</file>
+        <file>墨西哥.png</file>
+        <file>南非.png</file>
+        <file>南美.png</file>
+        <file>南亚.png</file>
+        <file>挪威.png</file>
+        <file>启动.png</file>
+        <file>日本.png</file>
+        <file>停止快进.png</file>
+        <file>西南亚.png</file>
+        <file>西亚.png</file>
+        <file>新西兰.png</file>
+        <file>暂停.png</file>
+        <file>中非.png</file>
+        <file>中亚.png</file>
+        <file>au.png</file>
+        <file>datepad.png</file>
+        <file>main_background.png</file>
+    </qresource>
+</RCC>
