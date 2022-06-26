@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/">
+        <file>datepad.png</file>
+        <file>main_background.png</file>
+        <file>../../../素材-project/阿拉伯半岛.png</file>
+        <file>../../../素材-project/阿拉斯加.png</file>
+        <file>../../../素材-project/北非.png</file>
+        <file>../../../素材-project/北欧.png</file>
+        <file>../../../素材-project/北亚.png</file>
+        <file>../../../素材-project/岛屿.png</file>
+        <file>../../../素材-project/东亚.png</file>
+        <file>../../../素材-project/格陵兰岛.png</file>
+        <file>../../../素材-project/加拿大.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.49.35.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.51.30.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.52.01.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.52.30.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.53.13.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.53.39.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.54.27.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.57.21.png</file>
+        <file>../../../素材-project/截屏2022-06-19 15.57.30.png</file>
+        <file>../../../素材-project/截屏2022-06-19 16.05.59.png</file>
+        <file>../../../素材-project/截屏2022-06-19 16.08.16.png</file>
+        <file>../../../素材-project/截屏2022-06-22 17.10.10.png</file>
+        <file>../../../素材-project/截屏2022-06-26 10.46.55.png</file>
+        <file>../../../素材-project/快进.png</file>
+        <file>../../../素材-project/美国.png</file>
+        <file>../../../素材-project/莫桑比克.png</file>
+        <file>../../../素材-project/南非.png</file>
+        <file>../../../素材-project/南美.png</file>
+        <file>../../../素材-project/南亚.png</file>
+        <file>../../../素材-project/挪威.png</file>
+        <file>../../../素材-project/启动.png</file>
+        <file>../../../素材-project/停止快进.png</file>
+        <file>../../../素材-project/西南亚.png</file>
+        <file>../../../素材-project/西亚.png</file>
+        <file>../../../素材-project/新西兰.png</file>
+        <file>../../../素材-project/暂停.png</file>
+        <file>../../../素材-project/中非.png</file>
+        <file>../../../素材-project/中亚.png</file>
+        <file>../../../素材-project/au.png</file>
+    </qresource>
+</RCC>
